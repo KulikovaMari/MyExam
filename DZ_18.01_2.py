@@ -12,5 +12,5 @@ Year = input("Введите год: ")
 Year = int(Year)
 print(is_year_leap(Year))
 
-   
+
 
